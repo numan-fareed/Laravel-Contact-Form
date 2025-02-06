@@ -70,7 +70,7 @@ php artisan migrate
 
 ### 6. Compile Assets
 ```bash
-npm run dev
+npm run build
 ```
 
 ### 7. Start Development Server
